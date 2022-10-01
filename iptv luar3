@@ -1,0 +1,180 @@
+================================SLOVENIA===================
+#EXTM3U
+#EXTINF:0 tvg-country="SI" tvg-logo="https://i.imgur.com/XzkurJ3.png" group-title="SLOVENIA",TV KOPER
+https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SI" tvg-logo="https://i.imgur.com/jnEPJoV.png" group-title="SLOVENIA",TV MARIBOR
+https://25-rtvslo-tv-mb-int.cdn.eurovisioncdn.net/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SI" tvg-logo="https://i.imgur.com/3t60yS0.png" group-title="SLOVENIA",TV SLOVENIJA 1
+https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SI" tvg-logo="https://i.imgur.com/QweABvP.png" group-title=""SLOVENIA,TV SLOVENIJA 2
+https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SI" tvg-logo="https://i.imgur.com/uO0QUzi.png" group-title="SLOVENIA",TV SLOVENIJA 3
+https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8?checkedby:iptvcat.com
+
+=========================NORWEGIA===========================
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",Animal Planet FHD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/40764?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",Canal Motor (720p)
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",Cartoon Network
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/27602?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",Discovery Channel FHD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/40760?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",Disney Channel
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/27600?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",Disney Junior
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/40758?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",FEM HD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/40753?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",Frikanalen
+https://frikanalen.no/stream/stream_1.m3u8?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",Kanal 10 Norge
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/40779?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",MTV Norge HD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/27594?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",Max FHD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/27593?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",NRK 1
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/50271?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",NRK 1 HD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/40746?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",NRK 2
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/50273?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",NRK 2 HD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/40747?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",NRK 3
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/28583?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",National Geographic FHD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/40763?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",Nick JR.
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/27592?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",Nickelodeon
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/40759?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",Nrk 2
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/5499?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",Stortinget
+http://flash0.19333-live0.dna.qbrick.com:1935/19333-live0/push-stortinget_1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",Stortinget
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/27591?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",Stortinget HS1 (576p)
+https://25480cc657998e13839139df392b46eb-httpcache0-19333-cachelive0.dna.ip-only.net/19333-cachelive0/smil:push-sal1_1/playlist.m3u8?dvr=&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="https://i.imgur.com/tg1YbfY.png" group-title="NORWEGIA",Stortinget HS2 (576p)
+https://bbe19a83414b545d91f32f94316aab71-httpcache0-19333-cachelive0.dna.ip-only.net/19333-cachelive0/smil:push-sal2_1/playlist.m3u8?dvr=&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="https://i.imgur.com/tg1YbfY.png" group-title="NORWEGIA",Stortinget N-202 (576p)
+https://98d91ca32ff6fbca255f6ec9f29fc4d0-httpcache0-19333-cachelive0.dna.ip-only.net/19333-cachelive0/smil:push-sal3_1/playlist.m3u8?dvr=&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="https://i.imgur.com/tg1YbfY.png" group-title="NORWEGIA",Stortinget Stortingssalen (576p)
+https://bf75c7afaa4f8698042ab38336a843a0-httpcache0-19333-cachelive0.dna.ip-only.net/19333-cachelive0/smil:push-stortinget_1/playlist.m3u8?dvr=&checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",TLC FHD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/40762?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",TV 2
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/40754?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",TV 2 Livsstil
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/8038?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",TV 2 Livsstil
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/40756?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",TV 2 Nyhetskanalen
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/27590?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",TV 2 Nyhetskanalen HD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/45732?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",TV 2 Zebra
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/45733?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",TV 2 Zebra HD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/27588?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",TV Norge
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/40749?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",TV6
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/40776?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",VOX Norway FHD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/20308?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",Viasat 4
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/41862?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",Viasat Film Action HD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/40778?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="NORWEGIA",Viasat Sport Premium HD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/20311?checkedby:iptvcat.com
+
+==================BOSNIA===============
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="BOSNIA",Al Jazeera
+http://red.ipfox.org:8080/1234/12345678/26417?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="BOSNIA",BHT
+http://red.ipfox.org:8080/1234/12345678/26428?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="BOSNIA",City tv
+http://red.ipfox.org:8080/1234/12345678/26419?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="BOSNIA",Face Tv
+http://red.ipfox.org:8080/1234/12345678/26431?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="BOSNIA",Hayat Plus
+http://red.ipfox.org:8080/1234/12345678/26425?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="BOSNIA",Hayat TV
+http://red.ipfox.org:8080/1234/12345678/26430?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="BOSNIA",N1 BIH
+http://red.ipfox.org:8080/1234/12345678/26418?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="BOSNIA",Nova BH
+http://red.ipfox.org:8080/1234/12345678/26429?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="BOSNIA",OBN
+http://red.ipfox.org:8080/1234/12345678/26426?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="BOSNIA",RTRS
+http://red.ipfox.org:8080/1234/12345678/26424?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="BOSNIA",RTV TK
+http://red.ipfox.org:8080/1234/12345678/26420?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="BOSNIA",RTV Vojvodina
+http://red.ipfox.org:8080/1234/12345678/26422?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="BOSNIA",TV SLON
+http://red.ipfox.org:8080/1234/12345678/26421?checkedby:iptvcat.com
+
+===============================CROASIA-----------------------
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="CROASIA",Banovina TV
+http://red.ipfox.org:8080/1234/12345678/26402?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="CROASIA",DOMA TV
+http://red.ipfox.org:8080/1234/12345678/26411?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="CROASIA",HRT 1
+http://red.ipfox.org:8080/1234/12345678/26416?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="CROASIA",HRT 2 [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226140/01.m3u8?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="CROASIA",HRT 3
+http://red.ipfox.org:8080/1234/12345678/26414?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="CROASIA",HRT 4
+http://red.ipfox.org:8080/1234/12345678/26413?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="CROASIA",LAUDATO TV
+http://red.ipfox.org:8080/1234/12345678/26404?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="CROASIA",MAXtv Promo Kanal [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226027/01.m3u8?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="CROASIA",NARODNI TV
+http://red.ipfox.org:8080/1234/12345678/26403?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="CROASIA",NOVA TV
+http://red.ipfox.org:8080/1234/12345678/26412?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="CROASIA",RTL
+http://red.ipfox.org:8080/1234/12345678/26410?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="CROASIA",RTL 2
+http://red.ipfox.org:8080/1234/12345678/26409?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="CROASIA",RTL CRIME
+http://red.ipfox.org:8080/1234/12345678/26408?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="CROASIA",RTL KOCKICA
+http://red.ipfox.org:8080/1234/12345678/26406?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="CROASIA",RTL LIVING
+http://red.ipfox.org:8080/1234/12345678/26407?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="CROASIA",RTL Passion
+http://red.ipfox.org:8080/1234/12345678/26405?checkedby:iptvcat.com
+
+============================SLOVENIA=================
+
+#EXTINF:0 tvg-country="SI" tvg-logo="https://i.imgur.com/XzkurJ3.png" group-title="SLOVENIA",TV KOPER
+https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SI" tvg-logo="https://i.imgur.com/jnEPJoV.png" group-title="SLOVENIA",TV MARIBOR
+https://25-rtvslo-tv-mb-int.cdn.eurovisioncdn.net/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SI" tvg-logo="https://i.imgur.com/3t60yS0.png" group-title="SLOVENIA",TV SLOVENIJA 1
+https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SI" tvg-logo="https://i.imgur.com/QweABvP.png" group-title="SLOVENIA",TV SLOVENIJA 2
+https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SI" tvg-logo="https://i.imgur.com/uO0QUzi.png" group-title="SLOVENIA",TV SLOVENIJA 3
+https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8?checkedby:iptvcat.com
+
+=====================ANDORA====================
+
+
+#EXTINF:0 tvg-country="AD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AD_246x246.png?raw=true" group-title="ANDORA",Architectural Digest
+https://dai2.xumo.com/xumocdn/p=roku&rdid=38477a90-292c-585f-9529-4b8a68a221ab&coppa=false&is_roku_lat=1&platform=web&content=6da9bbae6fca51b290bd1dadbbcc33e4&genre=ROKU_ADS_CONTENT_GENRE&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=us&bmodel=bm1&tags=ROKU_CONTENT_TAGS&studio_id=conde_nast&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS&studio_id=conde_nast&channelstore=us&bmodel=Dbm1&is_lat=1&channel_id=151908/amagi_hls_data_xumo1212A-rokutraveler/CDN/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AD_246x246.png?raw=true" group-title="ANDORA",Architectural Digest
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokutraveler/CDN/playlist.m3u8?checkedby:iptvcat.com
